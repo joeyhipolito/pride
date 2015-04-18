@@ -1,0 +1,28 @@
+{
+  "name": "pride",
+  "author": "Joey Hipolito <hi@joeyhipolito.me>",
+  "version": "0.1.0",
+  "description": "angularjs app boilerplate",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:joeyhipolito/pride.git"
+  },
+  "keywords": [
+    "angular",
+    "webpack",
+    "gulp",
+    "boilerplate"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joeyhipolito/pride/issues"
+  },
+  "homepage": "https://github.com/joeyhipolito/pride",
+  "devDependencies": {
+    "gulp-task-listing": "^1.0.0",
+    "require-dir": "^0.3.0"
+  }
+}
